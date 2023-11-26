@@ -32,13 +32,13 @@ The feature extraction involved creating multiple new features like Age, Number 
 To mitigate the impact of imbalances in the dataset; Oversampling takes place using SMOTE (Synthetic Minority Over-sampling Technique) which randomly 
 selects neighbors and interpolates between them to create new samples.
 <br>
-![eda5](images/results.png)
+![results](images/results.png)
 <br>
 The top performance is provided by the Extreme Gradient Boost (XGBoost) classifier is the model with maximum performance and optimal time followed by 
 Gradient Boost Classifier. As a result, we can see that oversampling at the start to make the training balanced along with XGBoost Classifier gives a 
 complete performance on the training set and a high performance on the test set.
 <br>
-![result_analysis](images/result_analysis.png)
+![result_analysis](images/result_analysis.jpg)
 <br>
 More improvements in classification can be done after understanding better properties of the dataset and using them for predictive modeling. 
 Multiple steps in the pipeline can be ablated for improvement in results. Also, powerful neural networks can be used for the same. My team ranked within the 
