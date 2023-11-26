@@ -1,6 +1,7 @@
 # Healthcare Insurance Provider Fraud Detection
 Materials: [Presentation](https://drive.google.com/drive/folders/1u4yLQPkfKcuXrW601tP3sW95Q4vACmJR?usp=sharing) 
 <br>
+<br>
 This project was created as a solution to the Krunchh Analytics Event conducted by the Department of Management Studies, IIT Madras.
 <br>
 It was inspired by the real-life problem faced in the healthcare insurance industry i.e., Provider Fraud that causes a substantial increase in Medicare 
@@ -37,7 +38,7 @@ The top performance is provided by the Extreme Gradient Boost (XGBoost) classifi
 Gradient Boost Classifier. As a result, we can see that oversampling at the start to make the training balanced along with XGBoost Classifier gives a 
 complete performance on the training set and a high performance on the test set.
 <br>
-![eda6](images/result_analysis.png)
+![result_analysis](images/result_analysis.png)
 <br>
 More improvements in classification can be done after understanding better properties of the dataset and using them for predictive modeling. 
 Multiple steps in the pipeline can be ablated for improvement in results. Also, powerful neural networks can be used for the same. My team ranked within the 
