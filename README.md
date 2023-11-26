@@ -1,4 +1,4 @@
-![image](https://github.com/vedang-04/krunchh/assets/87962644/dc047679-3f9f-4e49-95cf-a49e1d3d60fe)# Healthcare Insurance Provider Fraud Detection
+# Healthcare Insurance Provider Fraud Detection
 Materials: [Presentation](https://drive.google.com/drive/folders/1u4yLQPkfKcuXrW601tP3sW95Q4vACmJR?usp=sharing) 
 <br>
 This project was created as a solution to the Krunchh Analytics Event conducted by the Department of Management Studies, IIT Madras.
